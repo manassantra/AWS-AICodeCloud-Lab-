@@ -41,38 +41,7 @@ WEEK 4: Docker + DevOps + AI Project 2
 Project:
 ☐ Project 2: AI Product Reviewer - Uses OpenAI to generate product reviews and stores in MongoDB
 
-==============================================
-          Certifications Suggestions
 
-BONUS: Top 3 Certifications (with Checkboxes) [ Take 2-3 Months for This (Optional) ]
-These certifications are selected to support your transition into the AI + Cloud domain. 
-Use the checkboxes to track your preparation and completion.
-=============================================
-   🔄 AWS Certified Cloud Practitioner (CCP)
-==============================================
-✅ Register for AWS Free Tier account
-🔄 Study IAM, EC2, S3, Lambda, and API Gateway
-☐ Complete AWS Cloud Practitioner Essentials course
-☐ Practice with AWS official mock exams
-☐ Schedule and appear for AWS CCP exam
-==============================================
-   ☐ Microsoft Azure AI Fundamentals (AI-900)
-==============================================
-☐ Create a Microsoft Learn account
-☐ Study AI-900 path on Microsoft Learn
-☐ Register for a Microsoft Virtual Training Day
-☐ Claim free AI-900 exam voucher
-☐ Schedule and complete AI-900 exam
-===============================================
-   ☐ OpenAI / LangChain Project-Based Learning
-===============================================
-☐ Learn basic OpenAI API usage (text completion, summarization)
-☐ Explore LangChain for chaining prompts
-☐ Build 1–2 real-world AI apps using OpenAI APIs
-☐ Publish project on GitHub with README
-☐ Write LinkedIn post about your AI project
-
-=================================================
 =================================================
 Tracking on Jira : https://shorturl.at/Oxph7
 =================================================
