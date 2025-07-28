@@ -1,13 +1,13 @@
 ## AWS-AICodeCloud-Lab ✨
 This Career Transition 4 weeks plan is for a developer with 5^ Years of Experience with Angular and Node.js. 
-Transition into the AI + Cloud domain. Each item has a checkbox you can mark as you complete it. (i.e. I started and complete first one as green tik (✅).
+Transition into the AI + Cloud domain. Each item has a checkbox you can mark as you complete it. (i.e. I started and complete first one as green tik (✅). ##
 ====================================================================================
 STATUS :       ☐ To Do   >   🔄 In Progress   >  ✅ Done
 ====================================================================================
-#                       WEEKLY PLAN * [AWS-AI-CLOUDE-LAB]
+#                       WEEKLY PLAN * [AWS-AI-CLOUDE-LAB]                           #
 ====================================================================================
-## WEEK 1: Foundation Setup – AWS + Python + AI API Basics
-#Tasks:
+## WEEK 1: Foundation Setup – AWS + Python + AI API Basics  ##
+#Tasks:#
 ✅ Create AWS Free Tier account
 ☐ Learn IAM, S3, EC2, Lambda, and API Gateway
 ☐ Practice basic Python (requests, JSON, functions)
