@@ -10,7 +10,7 @@ Transition into the AI + Cloud domain. Each item has a checkbox you can mark as 
 
 ** Tasks:
 1. ✅ Create AWS Free Tier account
-2. ☐ Learn IAM, S3, EC2, Lambda, and API Gateway
+2. 🔄 Learn IAM, S3, EC2, Lambda, and API Gateway
 3. ☐ Practice basic Python (requests, JSON, functions)
 4. ☐ Test OpenAI API with sample prompts
 
@@ -42,19 +42,19 @@ Transition into the AI + Cloud domain. Each item has a checkbox you can mark as 
 =========================================
            Certifications Suggestions
 
-# BONUS: Top 3 Certifications (with Checkboxes) [ Take 2-3 Months for This (Optional) ]
+BONUS: Top 3 Certifications (with Checkboxes) [ Take 2-3 Months for This (Optional) ]
 These certifications are selected to support your transition into the AI + Cloud domain. 
 Use the checkboxes to track your preparation and completion.
 =============================================
-   1. AWS Certified Cloud Practitioner (CCP)
+   🔄 AWS Certified Cloud Practitioner (CCP)
 ==============================================
 ✅ Register for AWS Free Tier account
-☐ Study IAM, EC2, S3, Lambda, and API Gateway
+🔄 Study IAM, EC2, S3, Lambda, and API Gateway
 ☐ Complete AWS Cloud Practitioner Essentials course
 ☐ Practice with AWS official mock exams
 ☐ Schedule and appear for AWS CCP exam
 ==============================================
-   2. Microsoft Azure AI Fundamentals (AI-900)
+   ☐ Microsoft Azure AI Fundamentals (AI-900)
 ==============================================
 ☐ Create a Microsoft Learn account
 ☐ Study AI-900 path on Microsoft Learn
@@ -62,7 +62,7 @@ Use the checkboxes to track your preparation and completion.
 ☐ Claim free AI-900 exam voucher
 ☐ Schedule and complete AI-900 exam
 ===============================================
-   3. OpenAI / LangChain Project-Based Learning
+   ☐ OpenAI / LangChain Project-Based Learning
 ===============================================
 ☐ Learn basic OpenAI API usage (text completion, summarization)
 ☐ Explore LangChain for chaining prompts
