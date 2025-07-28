@@ -35,7 +35,7 @@ Tasks:
  
 WEEK 4: Docker + DevOps + AI Project 2
 
-** Tasks:
+Tasks:
 1. ☐ Learn Docker and Dockerize Angular + Node apps
 2. ☐ Use Docker Compose to run multi-container app
 3. ☐ Learn GitHub Actions or AWS CodePipeline
