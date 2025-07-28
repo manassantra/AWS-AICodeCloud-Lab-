@@ -52,10 +52,13 @@ Project:
                 📜 Disclaimer
 ********************************************
 🔒 Rights & Reservation
+
 All rights are reserved by the repository owner. Unauthorized use, modification, or distribution of this project or its components is strictly prohibited unless otherwise stated in the license file. The content and code in this repository are provided for educational and non-commercial purposes only, unless explicitly specified. The owner reserves the right to update or remove any content at any time without prior notice.
 
 🛡️ Privacy Policy
+
 This project does not collect, store, or share any personal data from users. However, if this repository includes links to external services or APIs, users are advised to review the respective privacy policies of those services. This repository and its contributors are not responsible for any misuse or data exposure caused by improper implementation of this project or any third-party dependencies.
 
 💡 Special Thanks
+
 Special thanks to ChatGPT® , an AI model developed by OpenAI® , which assisted in generating parts of this project's documentation, code suggestions, and other helpful content.
