@@ -5,8 +5,8 @@ Transition into the AI + Cloud domain. Each item has a checkbox you can mark as 
         STATUS  :   ☐ To Do   >   🔄 In Progress   >  ✅ Done
 *******************************************************************
           WEEKLY PLAN * [AWS-AI-CLOUDE-LAB]                           
-==================================================================
-WEEK 1: Foundation Setup – AWS + Python + AI API Basics
+==================================================================+
+ WEEK 1: Foundation Setup – AWS + Python + AI API Basics
 
 ** Tasks:
 1. ✅ Create AWS Free Tier account
@@ -17,7 +17,7 @@ WEEK 1: Foundation Setup – AWS + Python + AI API Basics
 ** Project:
 ☐ Build an AI Summary Tool that uses OpenAI API to summarize long text
 ====================================================================
-WEEK 2 & 3 : AI API + Cloud Integration (Project 1)
+ WEEK 2 & 3 : AI API + Cloud Integration (Project 1)
 
 ** Tasks:
 1. ☐ Learn prompt engineering basics
@@ -29,7 +29,7 @@ WEEK 2 & 3 : AI API + Cloud Integration (Project 1)
 ** Project:
 ☐ Project : AI-Powered Blog Assistant
 =====================================================================
-WEEK 4: Docker + DevOps + AI Project 2
+ WEEK 4: Docker + DevOps + AI Project 2
 
 ** Tasks:
 1. ☐ Learn Docker and Dockerize Angular + Node apps
