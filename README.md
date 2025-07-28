@@ -6,41 +6,43 @@ Transition into the AI + Cloud domain. Each item has a checkbox you can mark as 
 *******************************************************************
           WEEKLY PLAN * [AWS-AI-CodeCloud-Lab]                           
 =================================================================
- WEEK 1: Foundation Setup – AWS + Python + AI API Basics
 
-** Tasks:
+WEEK 1: Foundation Setup – AWS + Python + AI API Basics
+
+Tasks:
 1. ✅ Create AWS Free Tier account
 2. 🔄 Learn IAM, S3, EC2, Lambda, and API Gateway
 3. ☐ Practice basic Python (requests, JSON, functions)
 4. ☐ Test OpenAI API with sample prompts
 
-** Project:
+Project:
 ☐ Build an AI Summary Tool that uses OpenAI API to summarize long text
-==================================================================
+
  WEEK 2 & 3 : AI API + Cloud Integration (Project 1)
 
-** Tasks:
+Tasks:
 1. ☐ Learn prompt engineering basics
 2. ☐ Build a Node.js backend to connect to OpenAI API
 3. ☐ Create Angular frontend to take blog topic input
 4. ☐ Deploy frontend to AWS S3
 5. ☐ Deploy backend to AWS Lambda or EC2
-
-** Project:
+.
 ☐ Project : AI-Powered Blog Assistant
-============================================================
- WEEK 4: Docker + DevOps + AI Project 2
+
+ 
+WEEK 4: Docker + DevOps + AI Project 2
 
 ** Tasks:
 1. ☐ Learn Docker and Dockerize Angular + Node apps
 2. ☐ Use Docker Compose to run multi-container app
 3. ☐ Learn GitHub Actions or AWS CodePipeline
 4. ☐ Monitor logs with AWS CloudWatch
-
-** Project:
+.
+Project:
 ☐ Project 2: AI Product Reviewer - Uses OpenAI to generate product reviews and stores in MongoDB
-=========================================
-           Certifications Suggestions
+
+==============================================
+          Certifications Suggestions
 
 BONUS: Top 3 Certifications (with Checkboxes) [ Take 2-3 Months for This (Optional) ]
 These certifications are selected to support your transition into the AI + Cloud domain. 
