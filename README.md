@@ -1,7 +1,9 @@
-                    AWS-AICodeCloud-Lab Inc.®          
-This Career Transition 4 weeks plan is for a developer with 5^ Years of Experience with Angular and Node.js. 
-Transition into the AI + Cloud domain. Each item has a checkbox you can mark as you complete it. (i.e. I started and complete first one as green tik (✅).
-===================================================================
+                    AWS-AICodeCloud-Lab Inc.®       
+*******************************************************************
+        This Career Transition 4 weeks plan is for a developer with 5^ Years of Experience with Angular and Node.js. 
+        Transition into the AI + Cloud domain. Each item has a checkbox you can mark as you complete it. 
+                           (i.e. I started and complete first one as green tik (✅).
+*******************************************************************
         STATUS  :   ☐ To Do   >   🔄 In Progress   >  ✅ Done
 *******************************************************************
           WEEKLY PLAN * [AWS-AI-CodeCloud-Lab]                           
