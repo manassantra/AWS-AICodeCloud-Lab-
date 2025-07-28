@@ -5,7 +5,7 @@ Transition into the AI + Cloud domain. Each item has a checkbox you can mark as 
         STATUS  :   ☐ To Do   >   🔄 In Progress   >  ✅ Done
 *******************************************************************
           WEEKLY PLAN * [AWS-AI-CodeCloud-Lab]                           
-=================================================================
+*******************************************************************
 
 WEEK 1: Foundation Setup – AWS + Python + AI API Basics
 
