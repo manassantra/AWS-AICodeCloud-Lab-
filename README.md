@@ -42,11 +42,17 @@ Project:
 ☐ Project 2: AI Product Reviewer - Uses OpenAI to generate product reviews and stores in MongoDB
 
 
-=================================================
+************************************************
+
 Tracking on Jira : https://shorturl.at/Oxph7
 =================================================
+
+
+
+
+********************************************
                 📜 Disclaimer
-*************************************************
+********************************************
 🔒 Rights & Reservation
 All rights are reserved by the repository owner. Unauthorized use, modification, or distribution of this project or its components is strictly prohibited unless otherwise stated in the license file. The content and code in this repository are provided for educational and non-commercial purposes only, unless explicitly specified. The owner reserves the right to update or remove any content at any time without prior notice.
 
