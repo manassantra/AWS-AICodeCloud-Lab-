@@ -15,8 +15,8 @@ WEEK 1: Foundation Setup – AWS + Python + AI API Basics
 Tasks:
 1. ✅ Create AWS Free Tier account
 2. 🔄 Learn IAM, S3, EC2, Lambda, and API Gateway
-3. ☐ Practice basic Python (requests, JSON, functions)
-4. ☐ Test OpenAI API with sample prompts
+3. 🔄 Practice basic Python (requests, JSON, functions)
+4. 🔄 Test OpenAI API with sample prompts
 
 Project:
 ☐ Build an AI Summary Tool that uses OpenAI API to summarize long text
