@@ -35,7 +35,6 @@
             "Effect": "Deny",
             "Action": "s3:DeleteObject",
             "Resource": [
-                "arn:aws:s3:::my-aws-s3-lab-test/*",
                 "arn:aws:s3:::my-aws-s3-lab-test/*"
             ]
         }
